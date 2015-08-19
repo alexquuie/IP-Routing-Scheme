@@ -1,0 +1,15 @@
+This is the project for cop5536 wrote by ZHONGYAN QIU, UFID:96962096.
+
+Usage:
+>> make ssp (to make the ssp execution, which the default one)
+>> make routing (to make the routing execution)
+
+The produced execution will locate in the ./bin folder. 
+Also, the .txt files should be put into ./bin folder.
+>> cd bin
+>>./ssp filename src_node_# dst_node_#
+>>./routing graphfilename ipfilename src_node_# dst_node_#
+
+
+If you have any question, please feel free to send me email.
+My email-add: zyadabc14@ufl.edu
